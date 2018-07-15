@@ -14,4 +14,4 @@
 
 5. [Analytics Vidya](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-business-analyst-sas/)
 
-6. [Mike's SAS Tutorial - Youtube](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-business-analyst-sas/)
+6. [Mike's SAS Tutorial - Youtube](https://www.youtube.com/user/mbate001)
