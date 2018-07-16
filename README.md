@@ -3,6 +3,7 @@
 
 ## SAS Free tutorials online links
 
+#[Download SAS University edition for free](https://www.sas.com/en_us/software/university-edition.html)
 
 1. [Free offline SAS Tutorials](https://video.sas.com/detail/videos/sas-analytics-u/video/4664335808001/working-in-sas-studio?autoStart=true)
 
